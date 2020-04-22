@@ -1,5 +1,5 @@
 {
-    "name": "arquivei/laravel-prometheus-exporter",
+    "name": "lmarttins/laravel-prometheus-exporter",
     "description": "A Prometheus exporter for Laravel and Lumen",
     "license": "MIT",
     "authors": [
@@ -9,8 +9,8 @@
     ],
     "require": {
         "php": ">=7.3.0",
-        "illuminate/support": "^5.3 || ^6.0",
-        "illuminate/routing": "^5.3 || ^6.0",
+        "illuminate/support": "^5.3 || ^6.0 || ^7.0",
+        "illuminate/routing": "^5.3 || ^6.0 || ^7.0",
         "endclothing/prometheus_client_php": "^1.0.2"
     },
     "repositories": [

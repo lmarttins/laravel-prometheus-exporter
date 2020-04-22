@@ -21,7 +21,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/arquivei/laravel-prometheus-exporter"
+            "url": "https://github.com/lmarttins/laravel-prometheus-exporter.git"
         },
         {
             "type": "vcs",
